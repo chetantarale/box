@@ -1,0 +1,7 @@
+jobs:
+  - job:
+      name : job1
+      type: manifest
+      steps:
+        - GET chetantarale/box
+        - GET busybox
