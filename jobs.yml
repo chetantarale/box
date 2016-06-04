@@ -3,4 +3,5 @@ jobs:
       name : job1
       type: manifest
       steps:
-        - GET chetantarale/box
+        - GET box
+        - GET busybox
