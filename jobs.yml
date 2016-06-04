@@ -1,6 +1,6 @@
 jobs:
   - job:
-      name : job1
+      name : testjob
       type: manifest
       steps:
         - GET box
