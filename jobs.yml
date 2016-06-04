@@ -4,4 +4,3 @@ jobs:
       type: manifest
       steps:
         - GET chetantarale/box
-        - GET busybox
