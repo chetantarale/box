@@ -4,4 +4,4 @@ jobs:
       type: manifest
       steps:
         - GET box
-        - GET busybox
+        - GET u14phpall
