@@ -1,7 +1,5 @@
 jobs:
-  - job:
-      name : job1
-      type: manifest
-      steps:
-        - GET box
-        - GET u14phpall
+  - name : tempjob1
+    type : manifest
+    steps :
+      - GET 5134_master
